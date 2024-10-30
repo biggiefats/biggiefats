@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Muhammad Daud Malik - Biggiefats
 - Student @ UoM<br>
 - Data Science Amateur<br>
 - Looking towards a career in the AI and Dataspace<br>

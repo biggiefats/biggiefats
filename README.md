@@ -1,4 +1,7 @@
 # Muhammad Daud Malik a.k.a Biggiefats
+`Data Science Gangster`
+
+### Who am I?
 - Student @ UoM<br>
 - Data Science Amateur<br>
 - Looking towards a career in the AI and Dataspace<br>

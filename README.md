@@ -5,7 +5,7 @@
 - Student @ UoM<br>
 - Data Science Amateur<br>
 - Looking towards a career in the AI and Dataspace<br>
-- Proficient in Python, Beginner in SQL and Git Bash
+- Hoping to dive deep into Computer Vision, Reinforcement Learning and NLP
 
 
 ## 🌐 Socials:

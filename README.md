@@ -3,7 +3,7 @@
 
 ### Who am I?
 - Student @ UoM<br>
-- Data Science Amateur<br>
+- ML Noob<br>
 - Looking towards a career in the AI and Dataspace<br>
 - Hoping to dive deep into Computer Vision, Reinforcement Learning and NLP
 

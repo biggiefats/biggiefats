@@ -1,5 +1,4 @@
-# Muhammad Daud Malik a.k.a Biggiefats
-`Data Science Gangster`
+# Biggiefats
 
 ### Who am I?
 - Student @ UoM<br>

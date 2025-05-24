@@ -1,4 +1,4 @@
-# Biggiefats
+# biggiefats - ML savant
 
 ### Who am I?
 - Student @ UoM<br>

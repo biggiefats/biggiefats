@@ -1,4 +1,4 @@
-# biggiefats - ML savant
+# biggiefats
 
 ### Who am I?
 - CS @ UoM

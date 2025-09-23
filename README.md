@@ -1,7 +1,7 @@
 # biggiefats
 
 ### Who am I?
-- CS @ UoM
+- CS @ University of Manchester
 - CTO @ ???
 
 # 💻 Tech Stack:

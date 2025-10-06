@@ -3,6 +3,7 @@
 ### Who am I?
 - CS @ University of Manchester
 - Former AI Engineer and CTO
+- Student Ambassador @ ![Codewords](https://codewords.agemo.ai/)
 - Interested in SWE, SDE and Data Science
 
 # 💻 Tech Stack:
